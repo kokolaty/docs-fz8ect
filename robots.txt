@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-gxh1oc.date-me.pro/sitemap.xml
